@@ -1,0 +1,3 @@
+[submodule "local/hub"]
+	path = local/hub
+	url = https://github.com/moodlehq/moodle-local_hub.git
